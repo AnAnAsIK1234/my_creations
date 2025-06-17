@@ -6,3 +6,6 @@
 # Сcылки на проект
 [файл в pdf](vk_proj/vk_proj_1750179322.pdf) \
 [файл ipynb](vk_proj/vk_proj.ipynb)
+# Пример детекции смены сцен
+## Здесь зелёным отмечены границы интро. Красным - места, где разница между кадрами имеет большое значение (MSE)
+![image](https://github.com/user-attachments/assets/fded6df6-45df-4cf8-b58c-96c52cf32b99)
